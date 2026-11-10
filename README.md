@@ -24,7 +24,7 @@
 
 ### 👋 𝙃𝙚𝙡𝙡𝙤 𝙒𝙤𝙧𝙡𝙙! 𝙄'𝙢 **𝙃𝙤𝙖̀𝙣𝙜 𝙆𝙞𝙢**
 
-🎓 **𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙎𝙩𝙪𝙙𝙚𝙣𝙩** @ **𝙁𝙋𝙇** (3rd Year)  
+🎓 **𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙎𝙩𝙪𝙙𝙚𝙣𝙩** @ **𝙁𝙋𝙇** 
 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
 
 💡 I'm passionate about building **AI systems** that solve real-world problems — from **theory to production**!
@@ -156,7 +156,7 @@
 
 #### 🤖 **Deep Learning & LLMs**
 
-**[Vietnamese Math Agent](https://github.com/KhoiBui16/UIT_CS431-Deep_learning_and_applications)**
+**[Vietnamese Math Agent]()**
 <br>🇻🇳 Multimodal AI solving math from images with Vietnamese OCR & advanced reasoning
 
 <p>
@@ -173,7 +173,7 @@
 
 #### 📚 **NLP & Hallucination Detection**
 
-**[LLM Hallucination Classifier](https://github.com/KhoiBui16/UIT_CS221_Basic_Natural_Language_Processing)**
+**[LLM Hallucination Classifier]()**
 <br>🔍 Fine-tuning models to detect & categorize hallucinations in Vietnamese LLM outputs
 
 <p>
@@ -186,7 +186,7 @@
 
 #### 💬 **RAG Chatbot**
 
-**[AI Document Q&A](https://github.com/KhoiBui16/RAG_PDF_Chatbot)**
+**[AI Document Q&A]()**
 <br>📄 AI-Powered Document Q&A with Vietnamese language support using RAG architecture
 
 <p>
@@ -202,7 +202,7 @@
 
 #### 🛒 **Recommendation System**
 
-**[Product Recommender](https://github.com/KhoiBui16/Product-Recommendation-System)**
+**[Product Recommender]()**
 <br>🎯 Hybrid E-commerce Recommender combining content-based, collaborative filtering & ML
 
 <p>
@@ -214,7 +214,7 @@
 
 #### 🌧️ **Time Series Forecasting**
 
-**[Rainfall Prediction](https://github.com/KhoiBui16/CS313-mekong-delta-rainfall-forecasting)**
+**[Rainfall Prediction]()**
 <br>🌊 Mekong Delta Rainfall Prediction using advanced time series models
 
 <p>
@@ -229,7 +229,7 @@
 
 #### 👁️ **Computer Vision**
 
-**[Traffic Sign Detection](https://github.com/KhoiBui16/Project_Traffic_Sign_Detection)**
+**[Traffic Sign Detection]()**
 <br>🚦 2-phase detection with HOG + SVM achieving **97.21% accuracy**
 
 <p>
@@ -242,7 +242,7 @@
 
 #### 😊 **Face Recognition**
 
-**[Face App Attendance](https://github.com/KhoiBui16/Face_App_Attendance)**
+**[Face App Attendance]()**
 <br>🔐 Complete Face Recognition System with verification, anti-spoofing & emotion detection
 
 <p>
@@ -260,7 +260,7 @@
 
 #### 🎨 **Algorithm Visualization**
 
-**[Graph Coloring](https://github.com/KhoiBui16/Graph_Coloring_Heuristic)**
+**[Graph Coloring]()**
 <br>📊 Interactive Graph Coloring visualization using Greedy heuristic algorithm
 
 <p>
@@ -273,7 +273,7 @@
 
 #### 📊 **Algorithm Visualization**
 
-**[External File Sorting Visualizer](https://github.com/KhoiBui16/External-File-Sorting-Visualizer)**
+**[External File Sorting Visualizer]()**
 <br>🎨 Interactive visualization tool for external file sorting algorithms
 
 <p>
@@ -292,33 +292,16 @@
 
 | Project                                                                                                | Description                                                  | Tech                             |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
-| [face-attendance-app](https://github.com/KhoiBui16/face-attendance-app)                                | Real-time face-based attendance with HAAR, HOG, SVM/AdaBoost | `Python` `Streamlit` `OpenCV`    |
-| [Object_Detection_YOLOV1](https://github.com/KhoiBui16/Object_Detection_YOLOV1_VOC2012-From_Scratch)   | YOLOv1 from scratch with 93.88% mAP on VOC2012               | `PyTorch` `YOLO`                 |
-| [catdog-classifier-fastapi](https://github.com/KhoiBui16/catdog-classifier-inference-fastapi)          | Cat/Dog classifier with REST API deployment                  | `FastAPI` `PyTorch`              |
-| [VGG16_transfer_learning](https://github.com/KhoiBui16/VGG16_transfer_learning_cat_dog_classification) | Transfer learning with VGG16 for image classification        | `TensorFlow` `Transfer Learning` |
-| [Two-Agent-IL-RL](https://github.com/KhoiBui16/Two-Agent-IL-RL-Object-Detection-Project)               | Imitation & Reinforcement Learning for Object Detection      | `PyTorch` `RL`                   |
+| [face-attendance-app]()                                | Real-time face-based attendance with HAAR, HOG, SVM/AdaBoost | `Python` `Streamlit` `OpenCV`    |
+| [Object_Detection_YOLOV1]()   | YOLOv1 from scratch with 93.88% mAP on VOC2012               | `PyTorch` `YOLO`                 |
+| [catdog-classifier-fastapi]()          | Cat/Dog classifier with REST API deployment                  | `FastAPI` `PyTorch`              |
+| [VGG16_transfer_learning]() | Transfer learning with VGG16 for image classification        | `TensorFlow` `Transfer Learning` |
+| [Two-Agent-IL-RL]()               | Imitation & Reinforcement Learning for Object Detection      | `PyTorch` `RL`                   |
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![KhoiBui16's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KhoiBui16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=KhoiBui16&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhoiBui16&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhoiBui16&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
 
 ## 🏅 Achievements & Certifications
 
@@ -390,24 +373,16 @@
 
 </details>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khoi-bui-nhat-anh/details/certifications/">
-    <img src="https://img.shields.io/badge/📋%20View%20All%20Certifications%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="mailto:khoib1601@gmail.com">
+  <a href="mailto:kimhohoang48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/khoi-bui-nhat-anh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KhoiBui16">
+  <a href="https://github.com/kimxpolit.tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
