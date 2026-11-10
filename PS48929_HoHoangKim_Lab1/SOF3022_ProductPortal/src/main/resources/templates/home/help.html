@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${appName} + ' - Trợ giúp'">Trợ giúp</title>
+    <link rel="stylesheet" th:href="@{/style.css}">
+</head>
+<body>
+    <header>
+        <h1 th:text="${appName}">App Name</h1>
+    </header>
+    <nav>
+        <a th:href="@{/home/index}">Trang chủ</a>
+        <a th:href="@{/home/about}">Giới thiệu</a>
+        <a th:href="@{/home/help}">Trợ giúp</a>
+    </nav>
+    <main>
+        <div class="box">
+            <h2>Trợ giúp</h2>
+            <p th:text="${message}">Thông báo</p>
+            <div class="info">
+                <p>Tên hệ thống: <b th:text="${appName}"></b></p>
+                <p>Môn học: <b th:text="${subject}"></b></p>
+                <p>Học kỳ: <b th:text="${semester}"></b></p>
+            </div>
+            <p>Dùng menu phía trên để chuyển giữa các trang: Trang chủ, Giới thiệu, Trợ giúp.</p>
+        </div>
+    </main>
+</body>
+</html>
